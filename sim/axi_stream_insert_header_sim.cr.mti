@@ -1,0 +1,18 @@
+C:/Users/Chen/Desktop/axi_stream_insert_header/rtl/axi_stream_insert_header.v {2 {vlog -work work -vopt -stats=none C:/Users/Chen/Desktop/axi_stream_insert_header/rtl/axi_stream_insert_header.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module axi_stream_insert_header
+** Warning: (vlog-2121) C:/Users/Chen/Desktop/axi_stream_insert_header/rtl/axi_stream_insert_header.v(149): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/Chen/Desktop/axi_stream_insert_header/rtl/axi_stream_insert_header.v(150): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/Chen/Desktop/axi_stream_insert_header/rtl/axi_stream_insert_header.v(151): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+
+Top level modules:
+	axi_stream_insert_header
+
+} {} {}} C:/Users/Chen/Desktop/axi_stream_insert_header/tb/tb_axi_stream_insert_header.v {1 {vlog -work work -vopt -stats=none C:/Users/Chen/Desktop/axi_stream_insert_header/tb/tb_axi_stream_insert_header.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_axi_stream_insert_header
+
+Top level modules:
+	tb_axi_stream_insert_header
+
+} {} {}}
